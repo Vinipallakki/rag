@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is a field of computer science focused on building smart machines.  
+Large Language Models (LLMs) like Gemini and GPT are examples of AI systems trained on massive text data.  
+Retrieval-Augmented Generation (RAG) is a technique where we combine stored knowledge with LLM reasoning.  
+It improves factual accuracy, reduces hallucinations, and makes the system more trustworthy.  
