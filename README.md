@@ -1,4 +1,4 @@
-Sure! Here's a **simple README** you can include in your project for your Gemini + LangChain RAG setup:
+
 
 ---
 
@@ -61,7 +61,3 @@ print(answer)
 * Ensure the Gemini API key has proper permissions for embeddings and LLM.
 
 ---
-
-I can also create a **more beginner-friendly README** with screenshots and example outputs if you want.
-
-Do you want me to do that?
